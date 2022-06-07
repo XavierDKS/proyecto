@@ -1,0 +1,11 @@
+body {
+    background-color: #680a7c;
+}
+.titulo {
+    display: block;
+    text-align: center;
+    font-size: 100px;
+    font-family:'sans-serif', 'Gill Sans MT', 'Trebuchet MS', sans-serif
+    
+
+}
